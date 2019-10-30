@@ -43,5 +43,7 @@
 			parent.removeChild(this);
 			removeEventListener(Event.ENTER_FRAME, moveBullet);
 		}
+
+		// TEST!!!
 	}
 }
